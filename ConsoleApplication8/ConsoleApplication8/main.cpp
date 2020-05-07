@@ -1,8 +1,6 @@
 #include<iostream>
-#include<string>
 #include<time.h>
 #include<random>
-#include<ctime>
 #include<Math.h>
 using namespace std;
 
