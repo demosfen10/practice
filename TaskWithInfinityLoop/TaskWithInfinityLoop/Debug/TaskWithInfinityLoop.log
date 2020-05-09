@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\main.owner\documents\visual studio 2015\projects\taskwithinfinityloop\taskwithinfinityloop\main.cpp(16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\main.owner\documents\visual studio 2015\projects\taskwithinfinityloop\taskwithinfinityloop\main.cpp(23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TaskWithInfinityLoop.vcxproj -> c:\users\main.owner\documents\visual studio 2015\Projects\TaskWithInfinityLoop\Debug\TaskWithInfinityLoop.exe
